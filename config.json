@@ -1,10 +1,13 @@
 {
-  "bioUrl": "https://raw.githubusercontent.com/m4tt72/m4tt72/master/README.md",
+  "bioUrl": "https://raw.githubusercontent.com/gbrlpzz/gbrlpzz/master/README.md",
   "social": {
-    "instagram": "m4tt72",
-    "github": "m4tt72",
-    "linkedin": "yassinefathi"
+    "instagram": "gbrlpzz",
+    "github": "gbrlpzz",
+    "linkedin": "gabrielepizzi"
   },
-  "theme": "gruvboxdark",
-  "border": true
+  "ai":{
+    "chat": "https://chat.operaincerta.com/"
+  },
+  "theme": "googledark",
+  "border": false
 }
